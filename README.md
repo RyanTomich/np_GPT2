@@ -27,4 +27,4 @@ The goal is for all responses to match, demonstrating the correctness of the `np
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/RyanTomich/np_GPT2.git>
+   git clone https://github.com/RyanTomich/np_GPT2.git
