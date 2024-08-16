@@ -1,0 +1,3 @@
+[submodule "huggingface_transformers"]
+	path = huggingface_transformers
+	url = https://github.com/RyanTomich/huggingface_transformers.git
