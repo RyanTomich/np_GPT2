@@ -10,6 +10,16 @@
 #   year={2019}
 # }
 
+# @article{vaswani2023attention,
+#   title={Attention Is All You Need},
+#   author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia},
+#   year={2023},
+#   journal={arXiv},
+#   number={arXiv:1706.03762},
+#   url={http://arxiv.org/abs/1706.03762}
+# }
+
+
 # For extraction
 import model_trace as trace
 
